@@ -2,7 +2,7 @@
 
 # Acceler Digital
 
-[🌐 Webサイト](https://www.acceler-digital.com/) ・ [🦅 KARURA](https://github.com/Acceler-Digital/karura) ・ [📘 成果物サンプル](https://github.com/Acceler-Digital/karura-sample-artifacts-individual-life-insurance-new-business)
+[🌐 Webサイト](https://www.acceler-digital.com/) ・ [🦅 KARURA](https://github.com/Acceler-Digital/karura)
 
 </div>
 
