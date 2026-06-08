@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/acceler-digital-logo.png" alt="Acceler Digital" width="200">
+<img src="assets/acceler-digital-logo.png" alt="Acceler Digital" width="250">
 
 [![Website](https://img.shields.io/badge/🌐_Web_Site-acceler--digital.com-9333EA?style=for-the-badge)](https://www.acceler-digital.com/) <br>
 [![KARURA](https://img.shields.io/badge/🦅_KARURA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Acceler-Digital/karura)
