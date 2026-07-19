@@ -1,8 +1,8 @@
 <div align="center">
 
-<div><img src="assets/spacer.png" height="50" alt="" aria-hidden="true"></div>
-<img src="assets/acceler-digital-logo.png" alt="Acceler Digital" width="3000">
-<div><img src="assets/spacer.png" height="50" alt="" aria-hidden="true"></div>
+<div><img src="assets/spacer.png" height="30" alt="" aria-hidden="true"></div>
+<img src="assets/acceler-digital-logo.png" alt="Acceler Digital" width="500">
+<div><img src="assets/spacer.png" height="30" alt="" aria-hidden="true"></div>
 
 [![Website](https://img.shields.io/badge/🌐_Web_Site-acceler--digital.com-3831FF?style=for-the-badge)](https://www.acceler-digital.com/) 
 [![KARURA](https://img.shields.io/badge/🦅_KARURA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Acceler-Digital/karura)
